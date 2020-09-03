@@ -1,0 +1,22 @@
+This is a java applet that has been developed with the help of unfolding maps library and processing.
+Unfolding maps is a library that helps create interactive maps and geo-visualizations.
+
+Capabilities of this applet include:
+
+- Shaded country areas on a world map depending on the number of confirmed covid-19 cases imported from a dataset.
+- Hovering on a marker displays additional information like country name, population, total number of covid-19 cases and no of new cases.
+- Displays dynamic latitude and longitude at the bottom of the screen.
+- Clicking a particular marker hides all the other markers.
+- Changes map providers using key board shortcuts. (Click 1 - 2 - 3 on your keyboard to see the magic!)
+
+INSTALLATION
+
+Import this folder in Eclipse ('File' -> 'Import' -> 'Existing Projects into
+Workspace', Select this folder, 'Finish')
+
+
+
+
+
+
+
